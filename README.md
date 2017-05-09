@@ -5,6 +5,20 @@ A collection of the thoughts of people like Bret Victor, Ted Nelson, Alan Kay an
 
 The Foundation of the representation will be a 3D cube. There will be three Views. We will be using six markdown files as input for each plane. 
 
+      +----+
+      | BV |
+      +----+
++----------------+
+| JL || TN || VB |
++----------------+
+      +----+
+      | DE |
+      +----+
+      +----+
+      | AK |
+      +----+
+
+
 # Legend
 
 Each plane has its own color theme. Relations should have a special color.
