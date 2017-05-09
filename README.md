@@ -31,6 +31,8 @@ Transitions between views should be _smoothly_ animated (see bret victor: stop d
 - the relationship informations needs to be put into "data"
 - use SVG and *Script* to create a pseudo 3D View and to transform between views
 
+## Compute the total playtime of videos
+
 ## Can you make a chatbot out of it
 
 ## Youtube ML
