@@ -5,6 +5,7 @@ A collection of the thoughts of people like Bret Victor, Ted Nelson, Alan Kay an
 
 The Foundation of the representation will be a 3D cube. There will be three Views. We will be using six markdown files as input for each plane. 
 
+  ```
       +----+
       | BV |
       +----+
@@ -16,8 +17,8 @@ The Foundation of the representation will be a 3D cube. There will be three View
       +----+
       +----+
       | AK |
-      +----+
-
+      +----+ 
+```
 
 # Legend
 
