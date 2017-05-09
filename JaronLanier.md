@@ -10,11 +10,12 @@
 - https://www.youtube.com/watch?v=F9eFZpdSeRU
 - should be named learning through VR  => made a sketch note
 
-**who owns the future**
+**who owns the future[B]**
 
 - standford talk, see my sketch note: https://www.youtube.com/watch?v=cCvf2DZzKX0
 - short interview: https://www.youtube.com/watch?v=XdEuII9cv-U
 - related , social impacts, users provide page rank ( + google ads)  : https://www.youtube.com/watch?v=AwLwaB7pJC4
+- chapter on Ted Nelson and how his Ideas could be used to improve/rethink the web
 
 **Friedenspreis 2014**
 
